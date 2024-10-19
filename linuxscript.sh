@@ -1,1 +1,2 @@
 echo "Ben"
+date
